@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working ... -->
-- 🌱 I’m currently learning [hugo](https://gohugo.io/) static site generator
+- 🌱 I’m currently learning [Hugo](https://gohugo.io/) static site generator
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything
