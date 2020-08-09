@@ -1,6 +1,9 @@
 name: Latest blog post workflow
 on:
-  schedule:
+  - push:
+      branches:
+      - master
+  - schedule:
     # Runs every day at 00:000
     - cron: '0 0 * * *'
 
