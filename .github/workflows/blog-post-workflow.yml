@@ -1,18 +1,20 @@
 name: Latest blog post workflow
 on:
-  push:
-      branches:
-      - master
+  # push:
+      # branches:
+      # - master
   schedule:
     # Runs every day at 00:000
     - cron: '0 0 * * *'
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update default branch README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: '' # default branch
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://1stdimension.github.io/feed.xml"
