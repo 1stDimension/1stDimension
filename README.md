@@ -10,6 +10,18 @@
 
 ---
 
+<div class="row">
+  <div style="float: left; width: 33%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1stDimension&count_private=true&show_icons=true&theme=dark&layout=compact&hide=ruby" alt="Snow" style="width:100%">
+  </div>
+  <div style="float: left; width: 33%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1stDimension&count_private=true&show_icons=true&theme=dark&layout=compact&hide=ruby" alt="Forest" style="width:100%">
+  </div>
+  <div style="float: left; width: 33%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1stDimension&count_private=true&show_icons=true&theme=dark&layout=compact&hide=ruby" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 [![](https://github-readme-stats.vercel.app/api?username=1stDimension&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1stDimension&count_private=true&show_icons=true&theme=dark&layout=compact&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,7 +29,6 @@
 ---
 ### 📕 Recent posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello Blogging](https://1stdimension.github.io/2020/08/08/index.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 <!--
