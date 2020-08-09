@@ -8,7 +8,7 @@
 <!-- - 📫 How to reach me: ... -->
 - ⚡ Fun facts:
   - I have a blog [here](https://1stdimension.github.io/)
-  - If you wonder how this README is [build](./workflow.md) or at least I wish it was
+  - If you wonder how this README is [build](https://github.com/1stDimension/1stDimension/blob/master/workflow.md) or at least I wish it was
 
 ---
 
