@@ -1,8 +1,7 @@
 name: Build README.md from source branch to master
-on:
-  push:
-    branches:
-      - source
+on: [push]
+    # branches:
+      # - source
 jobs:
   build-readme:
     name: Build README from source and push to master
