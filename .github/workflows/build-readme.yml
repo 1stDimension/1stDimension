@@ -1,0 +1,25 @@
+name: Build README.md from source branch to master
+on:
+  push:
+    branches:
+      - source
+jobs:
+  build-readme:
+    name: Build README from source and push to master
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Printing context
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+          JOB_CONTEXT: ${{ toJson(job) }}
+          STEPS_CONTEXT: ${{ toJson(steps) }}
+          RUNNER_CONTEXT: ${{ toJson(runner) }}
+          STRATEGY_CONTEXT: ${{ toJson(strategy) }}
+        run: >
+          echo
+          $GITHUB_CONTEXT
+          $JOB_CONTEXT
+          $STEPS_CONTEXT
+          $RUNNER_CONTEXT
+          $STRATEGY_CONTEXT
+          | jq
