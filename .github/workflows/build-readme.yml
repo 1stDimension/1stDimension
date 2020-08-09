@@ -15,8 +15,7 @@ jobs:
           RUNNER_CONTEXT: ${{ toJson(runner) }}
           STRATEGY_CONTEXT: ${{ toJson(strategy) }}
         run: >
-          echo
-          $GITHUB_CONTEXT
+          echo $GITHUB_CONTEXT
           $JOB_CONTEXT
           $STEPS_CONTEXT
           $RUNNER_CONTEXT
