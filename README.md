@@ -16,6 +16,7 @@
 
 ---
 <!-- BLOG-POST-LIST:START -->
+- [Hello Blogging](https://1stdimension.github.io/2020/08/08/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
