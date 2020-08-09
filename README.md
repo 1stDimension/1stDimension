@@ -10,7 +10,9 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1stDimension&count_private=true&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1stDimension&count_private=true&show_icons=true&theme=dark&hide=ruby)
+|  |  |
+|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1stDimension&count_private=true&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1stDimension&count_private=true&show_icons=true&theme=dark&hide=ruby&layout=compact) |
 
 ---
 ### 📕 Recent posts
