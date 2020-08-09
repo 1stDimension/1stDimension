@@ -6,7 +6,9 @@
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything
 <!-- - 📫 How to reach me: ... -->
-- ⚡ Fun fact: I have a blog [here](https://1stdimension.github.io/)
+- ⚡ Fun facts:
+  - I have a blog [here](https://1stdimension.github.io/)
+  - If you wonder how this README is [build](./workflow.md) or at least I wish it was
 
 ---
 
@@ -20,10 +22,6 @@
 - [Hello Blogging](https://1stdimension.github.io/2020/08/08/index.html)
 <!-- BLOG-POST-LIST:END -->
 ---
-
-
-[most_used_languages]: 
-[github_stats]: 
 
 <!--
 **1stDimension/1stDimension** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
