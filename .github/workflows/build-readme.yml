@@ -39,6 +39,7 @@ jobs:
           HIDE_CODEBLOCKS: 1
       - name: show changes and push
         run: |
+          cd 1stDimension
           git status
           git add .
           git commit -m "generated mermaid svgs"
