@@ -21,8 +21,10 @@ jobs:
           $STEPS_CONTEXT
           $RUNNER_CONTEXT
           $STRATEGY_CONTEXT
-          | jq
+          | jq;
+          ls -R .
       # - name: Building svg files from mermaid
+      - uses: actions/checkout@v2
       - name: get changed files
         id: getfile
         run: |
@@ -38,8 +40,7 @@ jobs:
         env:
           HIDE_CODEBLOCKS: 1
       - name: show changes and push
-        run: |
-          cd 1stDimension
+        run: | 
           git status
           git add .
           git commit -m "generated mermaid svgs"
