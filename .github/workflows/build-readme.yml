@@ -22,3 +22,24 @@ jobs:
           $RUNNER_CONTEXT
           $STRATEGY_CONTEXT
           | jq
+      # - name: Building svg files from mermaid
+      - name: get changed files
+        id: getfile
+        run: |
+          echo "::set-output name=files::$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -e '.*\.md$' -e '.*\.mermaid$' | xargs)"
+      - name: mermaid files changed
+        run: |
+          echo ${{ steps.getfile.outputs.files }}
+      - name: compile mermaid
+        uses: neenjaw/compile-mermaid-markdown-action@master
+        with:
+          files: ${{ steps.getfile.outputs.files }}
+          output: 'output'
+        env:
+          HIDE_CODEBLOCKS: 1
+      - name: show changes and push
+        run: |
+          git status
+          git add .
+          git commit -m "generated mermaid svgs"
+          git push origin source:master
