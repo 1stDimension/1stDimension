@@ -11,16 +11,16 @@
   - If you wonder how this README is [build](https://github.com/1stDimension/1stDimension/blob/master/workflow.md) or at least I wish it was
 
 ---
+### 📕 Recent posts
+<!-- BLOG-POST-LIST:START -->
+- [Hello Blogging](https://1stdimension.github.io/2020/08/08/index.html)
+<!-- BLOG-POST-LIST:END -->
+---
 
 |  |  |
 |:---:|:---:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1stDimension&count_private=true&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1stDimension&count_private=true&show_icons=true&theme=dark&hide=ruby&layout=compact) |
 
----
-### 📕 Recent posts
-<!-- BLOG-POST-LIST:START -->
-- [Hello Blogging](https://1stdimension.github.io/2020/08/08/index.html)
-<!-- BLOG-POST-LIST:END -->
 ---
 
 <!--
