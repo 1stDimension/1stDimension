@@ -19,6 +19,7 @@
 ---
 ### 📕 Recent posts
 <!-- BLOG-POST-LIST:START -->
+- [YAML 101](https://1stdimension.github.io/2020/08/30/yaml_101.html)
 - [Hello Blogging](https://1stdimension.github.io/2019/08/11/index.html)
 <!-- BLOG-POST-LIST:END -->
 ---
