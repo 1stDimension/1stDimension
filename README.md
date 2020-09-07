@@ -19,7 +19,8 @@
 ---
 ### 📕 Recent posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello Blogging](https://1stdimension.github.io/2020/08/08/index.html)
+- [YAML 101](https://1stdimension.github.io/2020/08/30/yaml_101.html)
+- [Hello Blogging](https://1stdimension.github.io/2019/08/11/index.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 
@@ -27,12 +28,6 @@
 |:---:|:---:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1stDimension&count_private=true&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1stDimension&count_private=true&show_icons=true&theme=dark&hide=ruby&layout=compact) |
 
----
-### 📕 Recent posts
-<!-- BLOG-POST-LIST:START -->
-- [YAML 101](https://1stdimension.github.io/2020/08/30/yaml_101.html)
-- [Hello Blogging](https://1stdimension.github.io/2019/08/11/index.html)
-<!-- BLOG-POST-LIST:END -->
 ---
 
 <!--
