@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Years Badge](https://badges.pufler.dev/years/1stDimension)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/1stDimension)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/1stDimension)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/all/1stDimension)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/1stDimension)](https://badges.pufler.dev)
+
 <!-- - 🔭 I’m currently working ... -->
 - 🌱 I’m currently learning [Hugo](https://gohugo.io/) static site generator
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -10,6 +16,11 @@
   - I have a blog [here](https://1stdimension.github.io/)
   - If you wonder how this README is [build](https://github.com/1stDimension/1stDimension/blob/master/workflow.md) or at least I wish it was
 
+---
+### 📕 Recent posts
+<!-- BLOG-POST-LIST:START -->
+- [Hello Blogging](https://1stdimension.github.io/2020/08/08/index.html)
+<!-- BLOG-POST-LIST:END -->
 ---
 
 |  |  |
