@@ -7,7 +7,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/1stDimension)](https://badges.pufler.dev)
 
 <!-- - 🔭 I’m currently working ... -->
-- 🌱 I’m currently learning [Hugo](https://gohugo.io/) static site generator
+- 🌱 I’m currently learning gRPC
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything
