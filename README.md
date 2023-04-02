@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Years Badge](https://badges.pufler.dev/years/1stDimension)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/1stDimension)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/1stDimension)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/all/1stDimension)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/1stDimension)](https://badges.pufler.dev)
+[![Years Badge](https://badges.strrl.dev/years/1stDimension)](https://badges.strrl.dev)
+[![Repos Badge](https://badges.strrl.dev/repos/1stDimension)](https://badges.strrl.dev)
+[![Gists Badge](https://badges.strrl.dev/gists/1stDimension)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/all/1stDimension)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/monthly/1stDimension)](https://badges.strrl.dev)
 
 <!-- - 🔭 I’m currently working ... -->
 - 🌱 I’m currently learning gRPC
