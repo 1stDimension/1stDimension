@@ -7,7 +7,7 @@
 [![Commits Badge](https://badges.strrl.dev/commits/monthly/1stDimension)](https://badges.strrl.dev)
 
 <!-- - 🔭 I’m currently working ... -->
-- 🌱 I’m currently learning gRPC
+- 🌱 I’m currently learning eBPF
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything
